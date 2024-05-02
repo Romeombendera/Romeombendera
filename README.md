@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying
 - 💞️ I’m looking to collaborate on coding and App development
 - 📫 How to reach via e-mail romeombendera@gmail.com
-- 😄 Pronouns: we
+
 - ⚡ Fun fact: nothing lasts forever
 
 <!---
